@@ -3,7 +3,7 @@ In the Spring of 2015, I committed to carrying out my general exams in a way tha
 
 This repository on Github includes all the data analyses I carry out in the quantitative section on "[Statistical Methods for Computational Social Science](http://acawiki.org/J_Nathan_Matias_General_Exams_Reading_List#Statistical_Methods_for_Computational_Social_Science)."
 
---J. Nathan Matias, PhD Student, MIT Center for Civic Media
+--J. Nathan Matias, PhD Student, MIT Media Lab & Center for Civic Media
 
 ## Code Examples
 
