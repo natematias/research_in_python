@@ -2,6 +2,10 @@
 __pycache__/
 *.py[cod]
 
+# ignores unique to this repository
+*ipython_notebook_config.py
+*.ipynb_checkpoints
+
 # C extensions
 *.so
 
