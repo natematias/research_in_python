@@ -5,6 +5,7 @@ __pycache__/
 # ignores unique to this repository
 *ipython_notebook_config.py
 *.ipynb_checkpoints
+*.dta
 
 # C extensions
 *.so
