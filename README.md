@@ -19,6 +19,7 @@ _Long, J. Scott. 1997. Regression Models for Categorical and Limited Dependent V
 
 ## Methods Matter: Improving causal Inference in Educational and Social Science Research
 _Murnane, Richard J., and John B. Willett. 2010. Methods Matter: Improving causal Inference in Educational and Social Science Research, Oxford University Press._
+* [Regression Discontinuity Analysis](http://nbviewer.ipython.org/github/natematias/research_in_python/blob/master/regression_discontinuity/Regression%20Discontinuity%20Analysis.ipynb)
 * [Instrumental Variables Estimation in Python](http://nbviewer.ipython.org/github/natematias/research_in_python/blob/master/instrumental_variables_estimation/Instrumental-Variables%20Estimation.ipynb)
 * [Using Instrumental-Variables Estimation to Recover the Treatment Effect in Quasi-Experiments](http://nbviewer.ipython.org/github/natematias/research_in_python/blob/master/instrumental_variables_estimation/Using%20IVE%20to%20Recover%20the%20Treatment%20Effect.ipynb)
 
