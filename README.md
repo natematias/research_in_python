@@ -1,4 +1,4 @@
-# Doing Quantitative Research In Python
+# Statistical Research In Python
 In the Spring of 2015, I committed to carrying out my general exams in a way that made a contribution to public knowledge. I'm summarizing every book and article I read on AcaWiki ([the full list is here](http://acawiki.org/J_Nathan_Matias_General_Exams_Reading_List)).
 
 This repository on Github includes all the data analyses I carry out in the quantitative section on "[Statistical Methods for Computational Social Science](http://acawiki.org/J_Nathan_Matias_General_Exams_Reading_List#Statistical_Methods_for_Computational_Social_Science)."
@@ -27,3 +27,4 @@ _Murnane, Richard J., and John B. Willett. 2010. Methods Matter: Improving causa
 
 ## Applied Longitudinal Data Analysis
 _Singer, Judith D., and John B. Willett. 2003. Applied Longitudinal Data Analysis: Modeling Change and Event Occurrence. Oxford university press._
+* [Fitting Discrete Time Hazard/Survival Models](http://nbviewer.ipython.org/github/natematias/research_in_python/blob/master/survival_analysis/Discrete%20Time%20Survival%20Analysis%20in%20Python.ipynb)
