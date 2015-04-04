@@ -6,6 +6,8 @@ __pycache__/
 *ipython_notebook_config.py
 *.ipynb_checkpoints
 *.dta
+survival_analysis/*.tsv
+
 
 # C extensions
 *.so
