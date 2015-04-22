@@ -11,9 +11,6 @@ To execute these code examples, you will need to have jupyter notebook 3.0, alon
 ### Basic Analysis in Python
 * [Downloading Sample R Datasets and Doing Descriptive Statistics](http://nbviewer.ipython.org/github/natematias/research_in_python/blob/master/basic_analysis_in_python/Descriptive%20Statistics%20and%20Exploratory%20Data%20Analysis.ipynb)
 
-## Mostly Harmless Econometrics
-_Light, Richard J., Judith D. Singer, John B. Willett, and Richard J. Light. 2009. By Design: Planning Research on Higher Education. Harvard University Press._
-
 ## Regression Models for Categorical and Limited Dependent Variables.
 _Long, J. Scott. 1997. Regression Models for Categorical and Limited Dependent Variables. 1 edition. Thousand Oaks: SAGE Publications, Inc._
 
@@ -23,8 +20,7 @@ _Murnane, Richard J., and John B. Willett. 2010. Methods Matter: Improving causa
 * [Instrumental Variables Estimation in Python](http://nbviewer.ipython.org/github/natematias/research_in_python/blob/master/instrumental_variables_estimation/Instrumental-Variables%20Estimation.ipynb)
 * [Using Instrumental-Variables Estimation to Recover the Treatment Effect in Quasi-Experiments](http://nbviewer.ipython.org/github/natematias/research_in_python/blob/master/instrumental_variables_estimation/Using%20IVE%20to%20Recover%20the%20Treatment%20Effect.ipynb)
 
-
-
 ## Applied Longitudinal Data Analysis
 _Singer, Judith D., and John B. Willett. 2003. Applied Longitudinal Data Analysis: Modeling Change and Event Occurrence. Oxford university press._
+* [Multi-Level Models (Fixed and Random Effects)](http://nbviewer.ipython.org/github/natematias/research_in_python/blob/master/multilevel_models/Multilevel%20Models.ipynb)
 * [Fitting Discrete Time Hazard/Survival Models](http://nbviewer.ipython.org/github/natematias/research_in_python/blob/master/survival_analysis/Discrete%20Time%20Survival%20Analysis%20in%20Python.ipynb)
